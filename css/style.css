@@ -1,0 +1,14 @@
+section {
+    padding: 60px 0;
+}
+
+.showcase-img {
+    background-size: cover;
+    background-position: center;
+}
+
+@media (max-width: 768px) {
+    .showcase-img {
+        height: 300px;
+    }
+}
